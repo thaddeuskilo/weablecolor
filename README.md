@@ -2,7 +2,7 @@
 
 Accessible **color and contrast tooling** for designers and engineers: live libraries (RGB / HEX), WCAG + APCA workflows, shipped as a **Figma plugin** and **VS Code extension**.
 
-> Installable product in the wild. This repo is the public hire surface — not a dump of private source.
+> Installable product in the wild. This README is the public overview — not a dump of private source.
 
 ## Live proof
 
@@ -19,10 +19,6 @@ Contrast and color systems that survive real handoff — plugin + editor surface
 - Deterministic contrast remediation (WCAG / APCA), not vibes
 - Designer-ready export and audit flows
 - Same brand/product owner across web docs, Figma, and VS Code
-
-## Role fit
-
-Design systems, accessibility / design-engineer hybrids, and founder-led tooling that ships to production users.
 
 ---
 
